@@ -1,8 +1,10 @@
+
 #include <iostream>
 #include <unistd.h>
 #include <arpa/inet.h>
 #include <cstring>
 //店子
+//店
 int main() {
     int client_fd = socket(AF_INET, SOCK_STREAM, 0);
     if (client_fd == -1) {
