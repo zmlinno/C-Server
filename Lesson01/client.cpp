@@ -6,6 +6,7 @@
 #include<cstring>
 //搞个电子
 //电
+//电
 int main()
 {
 
