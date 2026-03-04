@@ -4,6 +4,7 @@
 #include <cstring>
 //搞个点子
 //改改
+//哈哈
 //ss
 int main() {
     int client_fd = socket(AF_INET, SOCK_STREAM, 0);
