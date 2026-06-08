@@ -7,6 +7,7 @@
 //店子
 //店
 //店里
+//的
 int main() {
     int client_fd = socket(AF_INET, SOCK_STREAM, 0);
     if (client_fd == -1) {
